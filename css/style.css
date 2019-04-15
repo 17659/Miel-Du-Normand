@@ -133,7 +133,7 @@ ol {
 	padding: 18px 47px 14px;
 	border-radius: 50px;
 	text-transform: uppercase;
-	background: #f51167;
+	background: #111111;
 	color: #fff;
 	line-height: normal;
 	cursor: pointer;
@@ -317,7 +317,7 @@ ol {
 	font-size: 12px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #f51167;
+	color: #f9a825;
 }
 
 .accordion-area .panel-body img {
@@ -398,9 +398,9 @@ ol {
 	left: 100%;
 	height: 16px;
 	min-width: 16px;
-	color: #fff;
+	color: #111111;
 	font-size: 13px;
-	background: #f51167;
+	background: #f9a825;
 	text-align: center;
 	border-radius: 30px;
 	padding: 0 2px;
@@ -440,13 +440,13 @@ ol {
 	font-size: 10px;
 	font-weight: 700;
 	color: #fff;
-	background: #f51167;
+	background: #f9a825;
 	line-height: 1;
 	text-transform: uppercase;
 	left: calc(50% - 21px);
 	padding: 5px 9px 1px;
 	border-radius: 15px;
-	width: 42px;
+	width: 72px;
 }
 
 .main-menu li:hover .sub-menu {
@@ -456,7 +456,7 @@ ol {
 }
 
 .main-menu li:hover>a {
-	color: #f51167;
+	color: #f9a825;
 }
 
 .main-menu .sub-menu {
@@ -490,7 +490,7 @@ ol {
 }
 
 .main-menu .sub-menu li a:hover {
-	color: #f51167;
+	color: #f9a825;
 }
 
 .nav-switch {
@@ -738,12 +738,12 @@ ol {
 
 .feature {
 	text-align: center;
-	background: #f8f8f8;
+	background: #f9a825;
 	height: 100%;
 }
 
 .feature:nth-child(2) {
-	background: #f51167;
+	background: #111111;
 }
 
 .feature:nth-child(2) h2 {
@@ -798,7 +798,7 @@ ol {
 
 .product-slider .owl-nav button.owl-next,
 .product-slider .owl-nav button.owl-prev {
-	color: #a4a4a4;
+	color: #111111;
 	font-size: 42px;
 	position: relative;
 }
@@ -826,19 +826,19 @@ ol {
 	font-size: 10px;
 	font-weight: 700;
 	color: #fff;
-	background: #50e550;
+	background: #f9a825;
 	line-height: 1;
 	text-transform: uppercase;
 	padding: 5px 9px 1px;
 	border-radius: 15px;
-	width: 42px;
+	width: 72px;
 }
 
 .product-item .tag-sale {
 	text-align: center;
 	padding: 5px 0px 1px;
 	min-width: 65px;
-	background: #f51167;
+	background: #f9a825;
 }
 
 .product-item .pi-links {
@@ -855,7 +855,7 @@ ol {
 	display: inline-table;
 	width: 36px;
 	height: 36px;
-	background: #fff;
+	background: #f9a825;
 	border-radius: 60px;
 	font-size: 18px;
 	line-height: 18px;
@@ -891,7 +891,7 @@ ol {
 }
 
 .product-item .pi-links a.add-card:hover {
-	width: 148px;
+	width: 188px;
 	padding: 8px 18px 0;
 	text-align: left;
 }
@@ -975,7 +975,7 @@ ol {
 	font-size: 24px;
 	font-weight: 700;
 	color: #fff;
-	background: #50e550;
+	background: #111111;
 	line-height: 1;
 	text-transform: uppercase;
 	padding: 7px 16px 1px;
@@ -1004,7 +1004,7 @@ ol {
 ---------------------*/
 
 .footer-section {
-	background: #282828;
+	background: #111111;
 	padding-top: 60px;
 }
 
@@ -1021,12 +1021,12 @@ ol {
 	font-size: 18px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #fff;
+	color: #ffffff;
 	margin-bottom: 45px;
 }
 
 .footer-widget p {
-	color: #8f8f8f;
+	color: #ffffff;
 }
 
 .footer-widget.about-widget p {
@@ -1049,7 +1049,7 @@ ol {
 	position: relative;
 	padding-left: 20px;
 	font-size: 14px;
-	color: #8f8f8f;
+	color: #ffffff;
 	margin-bottom: 6px;
 }
 
@@ -1060,7 +1060,7 @@ ol {
 	height: 5px;
 	left: 0;
 	top: 8px;
-	border: 1px solid #ec105a;
+	border: 1px solid #f9a825;
 	border-radius: 50%;
 	-webkit-transition: all 0.2s;
 	-o-transition: all 0.2s;
@@ -1068,14 +1068,14 @@ ol {
 }
 
 .footer-widget ul li a:hover {
-	color: #fff;
+	color: #ffffff;
 }
 
 .footer-widget ul li a:hover:after {
 	width: 7px;
 	height: 7px;
 	top: 6px;
-	background: #ec105a;
+	background: #f9a825;
 }
 
 .fw-latest-post-widget .lp-item {
@@ -1101,26 +1101,26 @@ ol {
 	font-weight: 700;
 	text-transform: uppercase;
 	opacity: 0.25;
-	color: #717171;
+	color: #ffffff;
 	margin-bottom: 1px;
 }
 
 .fw-latest-post-widget .lp-content span {
 	display: block;
 	font-size: 12px;
-	color: #8f8f8f;
+	color: #ffffff;
 	margin-bottom: 4px;
 }
 
 .fw-latest-post-widget .lp-content .readmore {
 	font-size: 12px;
-	color: #f51167;
+	color: #f9a825;
 }
 
 .contact-widget .con-info span {
 	float: left;
-	color: #f51167;
-	margin-right: 15px;
+	color: #f9a825;
+	margin-right: 6px;
 	overflow: hidden;
 }
 
@@ -1140,7 +1140,7 @@ ol {
 
 .social-links a i {
 	font-size: 30px;
-	color: #d7d7d7;
+	color: #ffffff;
 	float: left;
 	margin-right: 19px;
 	overflow: hidden;
@@ -1154,7 +1154,7 @@ ol {
 	font-size: 12px;
 	font-weight: 600;
 	text-transform: uppercase;
-	color: #9f9fa0;
+	color: #ffffff;
 	padding-top: 10px;
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
@@ -1162,39 +1162,39 @@ ol {
 }
 
 .social-links a.instagram:hover i {
-	color: #2F5D84;
+	color: #f9a825;
 }
 
 .social-links a.google-plus:hover i {
-	color: #E04B37;
+	color: #f9a825;
 }
 
 .social-links a.twitter:hover i {
-	color: #5abed6;
+	color: #f9a825;
 }
 
 .social-links a.pinterest:hover i {
-	color: #CD212D;
+	color: #f9a825;
 }
 
 .social-links a.facebook:hover i {
-	color: #39599F;
+	color: #f9a825;
 }
 
 .social-links a.twitter:hover i {
-	color: #5abed6;
+	color: #f9a825;
 }
 
 .social-links a.youtube:hover i {
-	color: #D12227;
+	color: #f9a825;
 }
 
 .social-links a.tumblr:hover i {
-	color: #37475E;
+	color: #f9a825;
 }
 
 .social-links a:hover span {
-	color: #fff;
+	color: #ffffff;
 }
 
 /* --------------
@@ -1215,7 +1215,7 @@ ol {
 .site-pagination {
 	font-size: 14px;
 	font-weight: 600;
-	color: #414141;
+	color: #ffffff;
 }
 
 .site-pagination a {
@@ -1235,7 +1235,7 @@ ol {
 .filter-widget .fw-title {
 	font-size: 18px;
 	font-weight: 700;
-	color: #414141;
+	color: #111111;
 	text-transform: uppercase;
 	margin-bottom: 45px;
 }
@@ -1249,7 +1249,7 @@ ol {
 	position: relative;
 	font-size: 12px;
 	color: #414141;
-	border-bottom: 1px solid #ebebeb;
+	border-bottom: 1px solid #111111;
 	padding: 12px 0 5px 20px;
 }
 
@@ -1264,16 +1264,16 @@ ol {
 	height: 9px;
 	left: 0;
 	top: 13px;
-	border: 1px solid #f51167;
+	border: 1px solid #f9a825;
 	border-radius: 50%;
 }
 
 .category-menu li a:hover {
-	color: #f51167;
+	color: #f9a825;
 }
 
 .category-menu li a:hover:after {
-	background: #f51167;
+	background: #f9a825;
 }
 
 .category-menu li a:last-child a {
@@ -1299,7 +1299,7 @@ ol {
 }
 
 .category-menu li:hover>a {
-	color: #f51167;
+	color: #f9a825;
 }
 
 .category-menu li.active>.sub-menu {
