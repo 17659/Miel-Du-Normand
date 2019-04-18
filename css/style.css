@@ -354,7 +354,7 @@ ol {
 	border-radius: 50px;
 	border: none;
 	padding: 0 19px;
-	background: #f0f0f0;
+	background: #f9a825;
 }
 
 .header-search-form button {
@@ -1534,7 +1534,7 @@ ol {
 	height: 100%;
 	left: 0;
 	top: 0;
-	border: 2px solid #f51167;
+	border: 2px solid #f9a825;
 	z-index: 1;
 }
 
@@ -1557,12 +1557,12 @@ ol {
 	font-size: 12px;
 	color: #000;
 	font-weight: 700;
-	color: #414141;
+	color: #111111;
 	margin-bottom: 10px;
 }
 
 .product-details .p-stock span {
-	color: #f51167;
+	color: #f9a825;
 }
 
 .product-details .p-rating {
@@ -1570,7 +1570,7 @@ ol {
 }
 
 .product-details .p-rating i {
-	color: #f51167;
+	color: #f9a825;
 }
 
 .product-details .p-rating i.fa-fade {
@@ -1582,7 +1582,7 @@ ol {
 }
 
 .product-details .p-review a {
-	color: #414141;
+	color: #111111;
 	font-size: 14px;
 	margin-right: 12px;
 	margin-left: 12px;
@@ -1633,13 +1633,13 @@ ol {
 }
 
 .product-details .social-sharing a {
-	color: #d7d7d7;
+	color: #111111;
 	margin-right: 23px;
 	font-size: 14px;
 }
 
 .product-details .social-sharing a:hover {
-	color: #414141;
+	color: #f9a825;
 }
 
 .quantity {
@@ -1667,7 +1667,7 @@ ol {
 .quantity .pro-qty {
 	width: 94px;
 	height: 36px;
-	border: 1px solid #ddd;
+	border: 1px solid #f9a825;
 	padding: 0 15px;
 	border-radius: 40px;
 	float: left;
@@ -1681,7 +1681,7 @@ ol {
 	cursor: pointer;
 	text-align: center;
 	font-size: 18px;
-	color: #404040;
+	color: #111111;
 }
 
 .quantity .pro-qty input {
@@ -1756,7 +1756,7 @@ ol {
 .cart-table table tr th {
 	font-size: 12px;
 	font-weight: 400;
-	color: #414141;
+	color: #111111;
 	text-align: center;
 	padding-bottom: 25px;
 }
@@ -1793,7 +1793,7 @@ ol {
 
 .cart-table .product-col .pc-title h4 {
 	font-size: 16px;
-	color: #414141;
+	color: #111111;
 	font-weight: 700;
 	margin-bottom: 3px;
 }
@@ -1801,7 +1801,7 @@ ol {
 .cart-table .product-col .pc-title p {
 	margin-bottom: 0;
 	font-size: 16px;
-	color: #414141;
+	color: #111111;
 }
 
 .cart-table .quy-col {
@@ -1818,7 +1818,7 @@ ol {
 .cart-table .quantity .pro-qty {
 	width: 80px;
 	background: #fff;
-	border-color: #fff;
+	border-color: #f9a825;
 }
 
 .cart-table .quantity .pro-qty .qtybtn {
@@ -1833,7 +1833,7 @@ ol {
 .cart-table .size-col h4,
 .cart-table .total-col h4 {
 	font-size: 18px;
-	color: #414141;
+	color: #111111;
 	font-weight: 400;
 }
 
@@ -1842,7 +1842,7 @@ ol {
 }
 
 .cart-table .total-cost {
-	background: #f51167;
+	background: #f9a825;
 	margin: 0 -34px;
 	text-align: right;
 	padding: 22px 0;
@@ -1853,7 +1853,7 @@ ol {
 	line-height: 1;
 	font-size: 18px;
 	font-weight: 700;
-	color: #ffffff;
+	color: #111111;
 }
 
 .cart-table .total-cost h6 span {
@@ -1892,7 +1892,7 @@ ol {
 	text-transform: uppercase;
 	font-size: 16px;
 	font-weight: 700;
-	color: #f51167;
+	color: #f9a825;
 	cursor: pointer;
 }
 
@@ -1926,7 +1926,7 @@ ol {
 	height: 44px;
 	border: none;
 	padding: 0 18px;
-	background: #f0f0f0;
+	background: #ffffff;
 	border-radius: 40px;
 	margin-bottom: 20px;
 	font-size: 14px;
@@ -2079,7 +2079,7 @@ ol {
 	overflow: hidden;
 	display: block;
 	font-size: 18px;
-	color: #414141;
+	color: #111111;
 	margin-bottom: 10px;
 }
 
