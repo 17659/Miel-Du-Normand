@@ -1450,8 +1450,8 @@ ol {
 }
 
 .fw-color-choose input[type=radio]:checked+label {
-	-webkit-box-shadow: 0 0 0 2px #f51167;
-	box-shadow: 0 0 0 2px #f51167;
+	-webkit-box-shadow: 0 0 0 2px #f9a825;
+	box-shadow: 0 0 0 2px #f9a825;
 }
 
 .fw-color-choose input[type=radio]:checked+label span {
@@ -1483,7 +1483,7 @@ ol {
 }
 
 .fw-size-choose input[type=radio]:checked+label {
-	background: #f51167;
+	background: #f9a825;
 	color: #fff;
 }
 
@@ -1548,7 +1548,7 @@ ol {
 
 .product-details .p-price {
 	font-size: 24px;
-	color: #414141;
+	color: #111111;
 	font-weight: 700;
 	margin-bottom: 20px;
 }
@@ -1913,12 +1913,12 @@ ol {
 
 .checkout-form p {
 	font-size: 16px;
-	color: #414141;
+	color: #111111;
 }
 
 .checkout-form h4 {
 	font-size: 18px;
-	color: #414141;
+	color: #111111;
 }
 
 .checkout-form input[type=text] {
@@ -1952,7 +1952,7 @@ ol {
 .cf-radio-btns label {
 	display: block;
 	font-size: 16px;
-	color: #414141;
+	color: #111111;
 	margin-bottom: 0;
 	padding-left: 30px;
 	position: relative;
@@ -1966,7 +1966,7 @@ ol {
 	height: 5px;
 	left: 4px;
 	top: 8px;
-	background: #414141;
+	background: #111111;
 	border-radius: 50%;
 	opacity: 0;
 	-webkit-transition: all 0.3s;
@@ -1981,7 +1981,7 @@ ol {
 	height: 13px;
 	left: 0;
 	top: 4px;
-	border: 2px solid #e1e1e1;
+	border: 2px solid #111111;
 	border-radius: 40px;
 }
 
@@ -2012,7 +2012,7 @@ ol {
 .payment-list li {
 	font-size: 18px;
 	font-weight: 600;
-	color: #414141;
+	color: #111111;
 	margin-bottom: 20px;
 }
 
@@ -2059,7 +2059,7 @@ ol {
 
 .checkout-cart .product-list h6 {
 	font-weight: 700;
-	color: #414141;
+	color: #111111;
 	padding-top: 15px;
 	margin-bottom: 5px;
 }
@@ -2142,7 +2142,7 @@ ol {
 
 .contact-social a:hover {
 	color: #fff;
-	background: #f51167;
+	background: #f9a825;
 }
 
 .contact-form input,
@@ -2304,7 +2304,7 @@ ol {
 		font-size: 10px;
 		font-weight: 700;
 		color: #fff;
-		background: #f51167;
+		background: #f9a825;
 		line-height: 1;
 		text-transform: uppercase;
 		padding: 5px 9px 1px;
