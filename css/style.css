@@ -2966,12 +2966,6 @@ table {
 
 /*-------- End latest-post Style -------------*/
 
-
-p, ul, ol {
-    margin-bottom: 30px;
-}
-
-
 /* Site Header */
 .site-header {
     padding: 3em 30px;
