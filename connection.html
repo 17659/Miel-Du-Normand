@@ -110,88 +110,14 @@
 <!-- cart section end -->
 <section class="cart-section spad">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8">
-                <div class="cart-table">
-                    <h3>Votre Panier</h3>
-                    <div class="cart-table-warp">
-                        <table>
-                            <thead>
-                            <tr>
-                                <th class="product-th">Produits</th>
-                                <th class="quy-th">Quantité</th>
-                                <th class="total-th">Prix</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td class="product-col">
-                                    <img src="img/cart/1.jpg" alt="">
-                                    <div class="pc-title">
-                                        <h4>Miel de Fleurs Sauvages 400g</h4>
-                                        <p>7,50€</p>
-                                    </div>
-                                </td>
-                                <td class="quy-col">
-                                    <div class="quantity">
-                                        <div class="pro-qty">
-                                            <input type="text" value="1">
-                                        </div>
-                                    </div>
-                                </td>
-                                <td class="total-col"><h4>7,50€</h4></td>
-                            </tr>
-                            <tr>
-                                <td class="product-col">
-                                    <img src="img/cart/2.jpg" alt="">
-                                    <div class="pc-title">
-                                        <h4>Coffret bois hydromel Spécial Armada 75 cl + accessoires</h4>
-                                        <p>35,00€</p>
-                                    </div>
-                                </td>
-                                <td class="quy-col">
-                                    <div class="quantity">
-                                        <div class="pro-qty">
-                                            <input type="text" value="1">
-                                        </div>
-                                    </div>
-                                </td>
-                                <td class="total-col"><h4>35,00€</h4></td>
-                            </tr>
-                            <tr>
-                                <td class="product-col">
-                                    <img src="img/cart/3.jpg" alt="">
-                                    <div class="pc-title">
-                                        <h4>Coffret de dégustation de miels Spécial Armada - 4 x 125g</h4>
-                                        <p>14,50€</p>
-                                    </div>
-                                </td>
-                                <td class="quy-col">
-                                    <div class="quantity">
-                                        <div class="pro-qty">
-                                            <input type="text" value="1">
-                                        </div>
-                                    </div>
-                                </td>
-                                <td class="total-col"><h4>14,50€</h4></td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="total-cost">
-                        <h6>Total <span>57,00€</span></h6>
-                    </div>
-                </div>
+        <form method="post" action="/">
+            <div>
+                <label for="mail">Mail : </label><input type="text" id="mail" name="mail"  placeholder="Saisir votre mail"/>
             </div>
-            <div class="col-lg-4 card-right">
-                <form class="promo-code-form">
-                    <input type="text" placeholder="Entrer le code de réduction">
-                    <button>Confirmer</button>
-                </form>
-                <a href="checkout.html" class="site-btn">Paiement</a>
-                <a href="Produits.html" class="site-btn sb-dark">Continuer les achats</a>
-            </div>
-        </div>
+            <label for="mdp">Mot de passe : </label><input type="password" id="mot de passe" name="mdp"  placeholder="Saisir votre mot de passe"/>
+            <input type="reset" value="Effacer" />
+            <input type="submit" value="Envoyer" />
+        </form>
     </div>
 </section>
 <!-- cart section end -->
